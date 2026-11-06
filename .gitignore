@@ -1,0 +1,6 @@
+﻿node_modules/
+dist/
+.env
+*.json.backup
+student-data-backup.json
+react-data-backup.json
